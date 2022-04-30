@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# CSharp
+*.cs     diff=csharp
+
+# Graphics
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tif binary
+*.tiff binary
+*.ico binary
+*.svg binary
+*.eps binary
+
+# Documentation
+*.docx binary
+
+# Binaries
+ruby-jekyll-env.7z binary
+Lib/SevenZipSharp.dll binary
+7z.dll binary
